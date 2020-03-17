@@ -2,6 +2,8 @@
 
 This gcp-cloud-engineer repo is to support you while you follow along with [A Cloud Guru's Google Certified Associate Cloud Engineer course](https://acloud.guru/learn/gcp-certified-associate-cloud-engineer).
 
+
+
 <!-- markdownlint-disable MD012 MD026 -->
 
 
@@ -26,3 +28,9 @@ Some of the commands we run in the labs can be a bit long and finicky.  To help 
 ## Questions?
 
 Please join us in discussion on [the course forum](https://acloud.guru/forums/gcp-certified-associate-cloud-engineer/).
+
+--------- 
+
+## Zarate Forked Edits
+
+* Pushing Changes from the Google CloudShell
