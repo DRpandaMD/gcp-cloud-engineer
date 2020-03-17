@@ -34,3 +34,5 @@ Please join us in discussion on [the course forum](https://acloud.guru/forums/gc
 ## Zarate Forked Edits
 
 * Pushing Changes from the Google CloudShell
+
+* One more change to see if `--global config user.name` was set correctly
